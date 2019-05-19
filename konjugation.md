@@ -3,6 +3,8 @@
 
 
 ### Präsens
+| denken | Präsens  |
+| :---: | :-----: | 
 | ich  | denke | 
 | du   | denkst | 
 | er/sie/es  | denkt | 
@@ -12,7 +14,7 @@
 
 
 ### Präteritum
-
+| denken | Präteritum|
 | :---: | :---: |
 | ich | dachte | 
 | du  | dachtest | 
