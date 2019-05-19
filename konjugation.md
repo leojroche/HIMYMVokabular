@@ -3,8 +3,11 @@
 
 
 ### Präsens
-| denken | Präsens  |
+
+
+
 | :---: | :-----: | 
+| denken | Präsens  |
 | ich  | denke | 
 | du   | denkst | 
 | er/sie/es  | denkt | 
