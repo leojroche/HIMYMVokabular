@@ -12,8 +12,9 @@
 
 
 ### Präteritum
-| ich | dachte | 
+
 | :---: | :---: |
+| ich | dachte | 
 | du  | dachtest | 
 | er/sie/es | dachte | 
 | wie | dachten |
