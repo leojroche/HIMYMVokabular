@@ -11,8 +11,9 @@
 | Sie | denken |
 
 
-### Prateritum ('' on a)
+### Präteritum
 | ich | dachte | 
+| :---: | :---: |
 | du  | dachtest | 
 | er/sie/es | dachte | 
 | wie | dachten |
