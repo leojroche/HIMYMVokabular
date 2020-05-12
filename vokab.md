@@ -17,6 +17,6 @@
 | die Möglichkeit, ~en | la possibilité |
 | etw. beachten | faire attention à qqchose | 
 | zunächst | au préalable | 
-| das Klammern, ~ | la parenthèse | 
+| die Klammern, ~ | la parenthèse | 
 | der Kasus, ~ | le cas |
 
