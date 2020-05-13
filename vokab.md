@@ -28,7 +28,7 @@
 | sich entspannen | se détendre |
 | die Vorkasse, ~n | le paiement en avance |
 | etw. stecken | planter/connecter qqchose | 
-| raffen | ne rien piger |
+| Ich raffe es nicht  | je capte pas |
 | jmdn. verarschen | se foutre de la geule de quelqu'un |
 | jmdm. etw. leihen | prêter qqchose à qqun | 
 | lostgehen | s'en aller |
