@@ -19,8 +19,11 @@
 | zunächst | au préalable | 
 | die Klammern, ~ | la parenthèse | 
 | der Kasus, ~ | le cas |
+
+
 ## Skyline E01
 | Deutsch | Français |
+| :----:  | :----:   |
 | der Auftritt, ~e | la scène |
 | sich entspannen | se détendre |
 | die Vorkasse, ~n | le paiement en avance |
@@ -57,5 +60,4 @@
 | die Scheibe, ~n | la vitre | 
 | sauber | propre | 
 | bequem | confortable | 
-| 
 
