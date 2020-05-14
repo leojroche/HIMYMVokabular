@@ -47,7 +47,6 @@
 | jmdn. verhören | interroger qqun | 
 | das Opfer, ~ | la victime |
 | geschieden | divorcé |
-| zweifache | double (ajd) |
 | die Vorstrafen | antécédents judiciaires|
 | jmdn. strafen | punic, pénaliser qqun | 
 | der Rocker, ~ | le biker |
