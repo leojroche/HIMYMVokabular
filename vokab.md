@@ -31,7 +31,7 @@
 | Ich raffe es nicht  | je capte pas |
 | jmdn. verarschen | se foutre de la geule de quelqu'un |
 | jmdm. etw. leihen | prêter qqchose à qqun | 
-| lostgehen | s'en aller |
+| losgehen | s'en aller |
 | übertreiben | abuser (slang) |
 | etw. schwören | jurer qqchose | 
 | etw. abfackeln | cramer qqchose | 
