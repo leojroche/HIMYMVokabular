@@ -19,6 +19,53 @@
 | zunächst | au préalable | 
 | die Klammern, ~ | la parenthèse | 
 | der Kasus, ~ | le cas |
+| bei... | en ce qui concerne | 
+| meist   | la plupart du temps | 
+| jmdm. gehören | appartenir à qqun | 
+| die Nachrichten | les informations | 
+| der Lastwagen, ~ | camion, poids lourd | 
+| der Hund, ~e    | le chien | 
+| die Verkäuferin, ~nen | la vendeuse | 
+| etw. bestimmen | assigner/déterminer | 
+| das Subjekt, ~e le sujet | 
+| das Objekt, ~e | l'objet | 
+| die Akte, ~n | le dossier | 
+| der Kellner, ~ | le serveur | 
+| die Kellnerin, ~nen | la serveuse | 
+| das Gericht, ~e | le plat | 
+| das Gesicht, ~er | le visage | 
+| für etw. zahlen | payer pr qqchose | 
+| die Rechnung, ~en | le calcul, l'addition | 
+| der Mantel, ~" | le manteau | 
+| der Besucher, ~ | le visiteur | 
+| der Weg, ~e | le trajet, le chemin | 
+| das Angebot, ~e | l'offre | 
+| das Bad, "er | le bain | 
+| das Rathaus, ~"e | la mairie | 
+| der Käufer, ~ | l'acheteur | 
+| der Vertreter, ~ | le remplacant | 
+| die Regierung, ~en | le gouvernement | 
+| das Beispiel, ~e | l'exemple | 
+| die Schulklasse, ~ | la classe |
+
+
+# Not in notebook;
+| erträglich | supportable | 
+| die Ausnahme, ~n | l'exception | 
+| ebenfalls | pareillement |
+| das Amt, ~"er | l'administration | 
+| die Anmerkung, ~en | la remarque, l'annotation | 
+| meist | le plus souvent | 
+| der Beruf, ~e | la profession | 
+| der Gruss, ~"e | la salutation | 
+| die Rechtschreibung, ~en | l'orthographe | 
+| der Vokal, ~e | la voyelle | 
+| einverstanden | d'accords | 
+| mühsam | pénible | 
+
+
+
+
 
 
 ## Skyline E01
@@ -48,15 +95,25 @@
 | das Opfer, ~ | la victime |
 | geschieden | divorcé |
 | die Vorstrafen | antécédents judiciaires|
-| jmdn. strafen | punic, pénaliser qqun | 
+| jmdn. strafen | punir, pénaliser qqun | 
 | der Rocker, ~ | le biker |
 | die Handgranate, ~n | la grenade |
 | die Nutte, ~n | la pute | 
 | das Handtuch, ~"er | serviette de bain |
-| etw. anfassen | toucher qqun | 
+| etw. anfassen | toucher qqchose | 
 | die Miete, ~n | le loyer | 
 | das Geschäft, ~e | le business |
 | die Scheibe, ~n | la vitre | 
 | sauber | propre | 
 | bequem | confortable | 
+| wach | réveillé | 
+
+
+
+
+
+
+
+
+
 
