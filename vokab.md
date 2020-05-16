@@ -47,9 +47,6 @@
 | die Regierung, ~en | le gouvernement | 
 | das Beispiel, ~e | l'exemple | 
 | die Schulklasse, ~ | la classe |
-
-
-# Not in notebook;
 | erträglich | supportable | 
 | die Ausnahme, ~n | l'exception | 
 | ebenfalls | pareillement |
@@ -62,6 +59,7 @@
 | der Vokal, ~e | la voyelle | 
 | einverstanden | d'accords | 
 | mühsam | pénible | 
+| das Ergebnis, ~se |  le résultat | 
 
 
 
