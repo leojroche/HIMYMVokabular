@@ -60,6 +60,28 @@
 | einverstanden | d'accords | 
 | mühsam | pénible | 
 | das Ergebnis, ~se |  le résultat | 
+<!-- 17/05/2020 --> 
+| die Gewalt, ~n  | le pouvoir, la puissance | 
+| die Ausgrenzung, ~en | la délimitation, la marginalisation | 
+| jmdn. Ausgrenzen | marginaliser qqun | 
+<!-- add to notebook -->
+| etw. verwenden | employer/se servir de qqchose | 
+| die Dose, ~n | la boite, la canette | 
+| der Dosenöffner, ~ | l'ouvre-boite | 
+| jmdm. wiedersprechen | répliquer à qqun |
+| der Mieter, ~ | le locataire | 
+| der Schiedsrichter, ~ | l'artibitre | 
+| der Leiter, ~ | le directeur | 
+| der Schulleiter, ~ | le directeur d'école |
+| der Meister, ~ | le maitre, le champion | 
+| der Eigentümer, ~ | le propriétaire | 
+| der Hauseigentümer, ~ | le propriétaire de la maison | 
+| der Auszubildende, ~n | le stagiaire, l'apprenti | 
+| die Ausbildung, ~n | l'apprentissage | 
+| der Patient, ~en | le patient | 
+| der Pfleger, ~ | l'infirmier | 
+
+
 
 
 
