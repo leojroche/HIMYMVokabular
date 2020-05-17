@@ -27,7 +27,7 @@
 | der Hund, ~e    | le chien | 
 | die Verkäuferin, ~nen | la vendeuse | 
 | etw. bestimmen | assigner/déterminer | 
-| das Subjekt, ~e le sujet | 
+| das Subjekt, ~e|  le sujet | 
 | das Objekt, ~e | l'objet | 
 | die Akte, ~n | le dossier | 
 | der Kellner, ~ | le serveur | 
