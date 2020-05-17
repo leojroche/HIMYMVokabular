@@ -59,12 +59,10 @@
 | der Vokal, ~e | la voyelle | 
 | einverstanden | d'accords | 
 | mühsam | pénible | 
-| das Ergebnis, ~se |  le résultat | 
-<!-- 17/05/2020 --> 
+| das Ergebnis, ~se |  le résultat | <!-- 17/05/2020 --> 
 | die Gewalt, ~n  | le pouvoir, la puissance | 
 | die Ausgrenzung, ~en | la délimitation, la marginalisation | 
-| jmdn. Ausgrenzen | marginaliser qqun | 
-<!-- add to notebook -->
+| jmdn. Ausgrenzen | marginaliser qqun | <!-- add to notebook -->
 | etw. verwenden | employer/se servir de qqchose | 
 | die Dose, ~n | la boite, la canette | 
 | der Dosenöffner, ~ | l'ouvre-boite | 
