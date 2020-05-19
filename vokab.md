@@ -59,10 +59,10 @@
 | der Vokal, ~e | la voyelle | 
 | einverstanden | d'accords | 
 | mühsam | pénible | 
-| das Ergebnis, ~se |  le résultat | <!-- 17/05/2020 --> 
+| das Ergebnis, ~se |  le résultat | 
 | die Gewalt, ~n  | le pouvoir, la puissance | 
 | die Ausgrenzung, ~en | la délimitation, la marginalisation | 
-| jmdn. Ausgrenzen | marginaliser qqun | <!-- add to notebook -->
+| jmdn. Ausgrenzen | marginaliser qqun |
 | etw. verwenden | employer/se servir de qqchose | 
 | die Dose, ~n | la boite, la canette | 
 | der Dosenöffner, ~ | l'ouvre-boite | 
@@ -77,7 +77,17 @@
 | der Auszubildende, ~n | le stagiaire, l'apprenti | 
 | die Ausbildung, ~n | l'apprentissage | 
 | der Patient, ~en | le patient | 
-| der Pfleger, ~ | l'infirmier | 
+| der Pfleger, ~ | l'infirmier | <!-- ADD TO NOTEBOOK  -->
+| sich bewaffnen | s'armer |
+| die Waffe, ~n  | l'arme | 
+| tagsüber | durant la journée | 
+| sau   | vachement | 
+| die Beschänkung, ~en | la restriction, la limitation  | 
+| die Massnahme, ~n | la mesure, l'action | 
+| jmdn. aussperren | enfermer qqun dehors | 
+| heutig  | du jour, d'aujourd'hui | 
+| der Widerstand, ~"e | la résistance | 
+
 
 
 
