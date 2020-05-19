@@ -20,7 +20,6 @@
 | die Klammern, ~ | la parenthèse | 
 | der Kasus, ~ | le cas |
 | bei... | en ce qui concerne | 
-| meist   | la plupart du temps | 
 | jmdm. gehören | appartenir à qqun | 
 | die Nachrichten | les informations | 
 | der Lastwagen, ~ | camion, poids lourd | 
