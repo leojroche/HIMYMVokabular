@@ -25,7 +25,7 @@
 | der Lastwagen, ~ | camion, poids lourd | 
 | der Hund, ~e    | le chien | 
 | die Verkäuferin, ~nen | la vendeuse | 
-| etw. bestimmen | assigner/déterminer | 
+| etw. bestimmen | assigner/déterminer qqchose | 
 | das Subjekt, ~e|  le sujet | 
 | das Objekt, ~e | l'objet | 
 | die Akte, ~n | le dossier | 
@@ -39,13 +39,13 @@
 | der Besucher, ~ | le visiteur | 
 | der Weg, ~e | le trajet, le chemin | 
 | das Angebot, ~e | l'offre | 
-| das Bad, "er | le bain | 
+| das Bad, ~"er | le bain | 
 | das Rathaus, ~"e | la mairie | 
 | der Käufer, ~ | l'acheteur | 
 | der Vertreter, ~ | le remplacant | 
 | die Regierung, ~en | le gouvernement | 
 | das Beispiel, ~e | l'exemple | 
-| die Schulklasse, ~ | la classe |
+| die Schulklassen, ~ | la classe |
 | erträglich | supportable | 
 | die Ausnahme, ~n | l'exception | 
 | ebenfalls | pareillement |
@@ -59,7 +59,7 @@
 | einverstanden | d'accords | 
 | mühsam | pénible | 
 | das Ergebnis, ~se |  le résultat | 
-| die Gewalt, ~n  | le pouvoir, la puissance | 
+| die Gewalt, ~en  | le pouvoir, la puissance | 
 | die Ausgrenzung, ~en | la délimitation, la marginalisation | 
 | jmdn. Ausgrenzen | marginaliser qqun |
 | etw. verwenden | employer/se servir de qqchose | 
@@ -67,26 +67,29 @@
 | der Dosenöffner, ~ | l'ouvre-boite | 
 | jmdm. wiedersprechen | répliquer à qqun |
 | der Mieter, ~ | le locataire | 
-| der Schiedsrichter, ~ | l'artibitre | 
+| der Schiedsrichter, ~ | l'arbitre | 
 | der Leiter, ~ | le directeur | 
 | der Schulleiter, ~ | le directeur d'école |
 | der Meister, ~ | le maitre, le champion | 
 | der Eigentümer, ~ | le propriétaire | 
 | der Hauseigentümer, ~ | le propriétaire de la maison | 
 | der Auszubildende, ~n | le stagiaire, l'apprenti | 
-| die Ausbildung, ~n | l'apprentissage | 
+| die Ausbildung, ~en | l'apprentissage | 
 | der Patient, ~en | le patient | 
-| der Pfleger, ~ | l'infirmier | <!-- ADD TO NOTEBOOK  -->
+| der Pfleger, ~ | l'infirmier |
 | sich bewaffnen | s'armer |
 | die Waffe, ~n  | l'arme | 
 | tagsüber | durant la journée | 
 | sau   | vachement | 
-| die Beschänkung, ~en | la restriction, la limitation  | 
+| die Beschränkung, ~en | la restriction, la limitation  | 
 | die Massnahme, ~n | la mesure, l'action | 
 | jmdn. aussperren | enfermer qqun dehors | 
 | heutig  | du jour, d'aujourd'hui | 
 | der Widerstand, ~"e | la résistance | 
-
+| sich scheiden | s'opposer, divorser  |
+| der Richter, ~ | le juge | 
+| etw. tragen | porter, supporter qqchose | 
+| 
 
 
 
@@ -137,7 +140,33 @@
 
 
 
-
+## Skyline E02
+| Deutsch | Français |
+| :----:  | :----:   |
+| sofort | tout de suite |
+| der Wichser, ~ | le branleur | 
+| wichsen | se branler |  
+| etw. aufmachen | ouvrir qqchose | 
+| knurren | ronchoner (slang) | 
+| bellen | aboyer |
+| überhaupt | au juste | 
+| der Zettel, ~ | le pense-bête |
+| der Antrag, ~"e | la proposition | 
+| vorsichtig | prudent | 
+| behalten | conserver | 
+| etw. mieten | louer qqchose (client) | 
+| etw. vermieten | louer qqchose (propriétaire) | 
+| der Stoff, ~e | la dope | 
+| etw. begreifen | comprendre qqchose | 
+| jmdn. aufregen | énerver qqun | 
+| auflegen | raccrocher |
+| der Bulle, ~n | le flic | 
+| etw. glotzen  | mater qqchose | 
+| jmdn. erwischen | chopper qqun | 
+| etw. verdienen | mériter qqchose | 
+| die Erpressung, ~en | le chantage | 
+| eben | à l'instant | 
+| 
 
 
 
