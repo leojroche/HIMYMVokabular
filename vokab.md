@@ -45,7 +45,7 @@
 | der Vertreter, ~ | le remplacant | 
 | die Regierung, ~en | le gouvernement | 
 | das Beispiel, ~e | l'exemple | 
-| die Schulklassen, ~ | la classe |
+| die Schulklasse, ~n | la classe |
 | erträglich | supportable | 
 | die Ausnahme, ~n | l'exception | 
 | ebenfalls | pareillement |
@@ -56,18 +56,19 @@
 | der Gruss, ~"e | la salutation | 
 | die Rechtschreibung, ~en | l'orthographe | 
 | der Vokal, ~e | la voyelle | 
-| einverstanden | d'accords | 
+| einverstanden sein | être d'accords | 
 | mühsam | pénible | 
 | das Ergebnis, ~se |  le résultat | 
 | die Gewalt, ~en  | le pouvoir, la puissance | 
 | die Ausgrenzung, ~en | la délimitation, la marginalisation | 
-| jmdn. Ausgrenzen | marginaliser qqun |
+| jmdn. ausgrenzen | marginaliser qqun |
 | etw. verwenden | employer/se servir de qqchose | 
 | die Dose, ~n | la boite, la canette | 
 | der Dosenöffner, ~ | l'ouvre-boite | 
 | jmdm. wiedersprechen | répliquer à qqun |
 | der Mieter, ~ | le locataire | 
 | der Schiedsrichter, ~ | l'arbitre | 
+| sich schieden       | s'opposer |
 | der Leiter, ~ | le directeur | 
 | der Schulleiter, ~ | le directeur d'école |
 | der Meister, ~ | le maitre, le champion | 
@@ -77,8 +78,8 @@
 | die Ausbildung, ~en | l'apprentissage | 
 | der Patient, ~en | le patient | 
 | der Pfleger, ~ | l'infirmier |
-| sich bewaffnen | s'armer |
 | die Waffe, ~n  | l'arme | 
+| sich bewaffnen | s'armer |
 | tagsüber | durant la journée | 
 | sau   | vachement | 
 | die Beschränkung, ~en | la restriction, la limitation  | 
@@ -89,9 +90,6 @@
 | sich scheiden | s'opposer, divorser  |
 | der Richter, ~ | le juge | 
 | etw. tragen | porter, supporter qqchose | 
-| 
-
-
 
 
 
