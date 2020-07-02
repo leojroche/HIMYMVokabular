@@ -105,7 +105,7 @@
 | der Zustand | la condition, l'état | 
 | das Foul, ~s | la faute | 
 | die Anreise, ~n | l'arrivée | 
-| die Pflicht, ~en | l'obligation | 
+| die Pflicht, ~en | l'obligation, le devoir | 
 | Mahlzeit! | Bon appétit! | 
 | die Ausrottung, ~en | l'extermination, l'éradication | 
 | die Übersicht, kein Pl. | l'apercu, l'exposé sommaire | 
@@ -119,10 +119,10 @@
 | wegen + Gen. | au sujet de | 
 | der Vertreter, ~ | le remplacant, le représentant | 
 | der Anschlag, ~"e | l'attentat | 
-| etw. verschieben | report qqchose | 
-| der Feierabend, ~e | find de la journée de travaille | 
+| etw. verschieben | reporter qqchose | 
+| der Feierabend, ~e | fin de la journée de travaille | 
 | vorne | à l'avant |
-| passend | approporié | 
+| passend | approprié | 
 | jmdm. mit etw. drohen | drohen | 
 
 
