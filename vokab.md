@@ -1,4 +1,4 @@
-## Divers
+## Divers 1 
 | Deutsch | Français |
 | :----:  | :----:   |
 | der Satz, ~"e     | la phrase |
@@ -52,6 +52,10 @@
 | das Amt, ~"er | l'administration | 
 | die Anmerkung, ~en | la remarque, l'annotation | 
 | meist | le plus souvent | 
+
+## Divers 2
+| Deutsch | Français |
+| :----:  | :----:   |
 | der Beruf, ~e | la profession | 
 | der Gruss, ~"e | la salutation | 
 | die Rechtschreibung, ~en | l'orthographe | 
@@ -90,6 +94,38 @@
 | sich scheiden | s'opposer, divorser  |
 | der Richter, ~ | le juge | 
 | etw. tragen | porter, supporter qqchose | 
+| umgekehrt | inverse, renversé |
+| besiegen | vaincre, dominer | 
+| etw. pflegen | entretenir qqchose |
+| bedrohlich | menacant | 
+| ausserdem, | en plus, | 
+| laufen | se passer, fonctionner, courir, marcher |
+| die Wolke, ~n | le nuage | 
+| der Schalter, ~ | l'interrupteur, le guichet |
+| der Zustand | la condition, l'état | 
+| das Foul, ~s | la faute | 
+| die Anreise, ~n | l'arrivée | 
+| die Pflicht, ~en | l'obligation | 
+| Mahlzeit! | Bon appétit! | 
+| die Ausrottung, ~en | l'extermination, l'éradication | 
+| die Übersicht, kein Pl. | l'apercu, l'exposé sommaire | 
+| jmdn. festnehmen | arrêter qqun |
+| der Betrieb, kein Pl. | le fonctionnement | 
+| die Erkenntnis, ~se | la connaissance | 
+| etw. verantworten   | répondre de qqchose | 
+| jmdn. beleidigen | insulter, blesser qqun | 
+| der Forschritt, ~e | le progrès | 
+| der Schritt, ~e | le pas | 
+| wegen + Gen. | au sujet de | 
+| der Vertreter, ~ | le remplacant, le représentant | 
+| der Anschlag, ~"e | l'attentat | 
+| etw. verschieben | report qqchose | 
+| der Feierabend, ~e | find de la journée de travaille | 
+| vorne | à l'avant |
+| passend | approporié | 
+| jmdm. mit etw. drohen | drohen | 
+
+
 
 
 
@@ -167,7 +203,46 @@
 | 
 
 
+## Skyline E05
+| Deutsch | Français |
+| :----:  | :----:   |
+| die Spucke, kein pl. | la salive, le crachat |
+| sonst | sinon | 
+| jmdm. etw. schulden | (re)devoir qqchose à qqun | 
+| die Schuld, ~en | la dette | 
+| das Gewissen, kein pl. | la conscience | 
+| sauer | faché | 
+| Hurensohn | fils de pute | 
+| kündigen | démissioner | 
+| etw. hinterfragen | remettre qqchose en question | 
+| verpissen | se natchaver | 
+| verpiss dich | fuck off | 
+| der Klingelton, ~"e | la sonnerie de téléphone | 
+| der Bescheid, ~e | la décision | 
+| die Leistung, ~en | la prestation | 
+| seufzen | soupirer | 
+| der Esel, ~ | l'âne | 
+| jmdn. bedrohen | intimider qqun | 
+| der Zugang, ~"e | le renfort | 
+| etw. zumachen | fermer qqchose | 
+| der Kripo, kein pl | la police judicière | 
+| ballern | tirer des coups de feu | 
+| verrotten | pourrir | 
+| der Wichser | le branleur | 
+| abhauen | mettre les voiles (slang) | 
+| einen Knall haben | être maboul (slang) | 
+| der Mord, ~e | le meurtre | 
+| ermitteln | investiguer | 
+| der Verdacht, ~e | le doute | 
+| sich etw. besorgen | se procurer qqchose | 
+| etw. ausstrecken | étendre qqchose | 
+| die Axt, ~"e | la hache | 
+| die Fotze, ~en | le con (vulgaire) | 
+| tuten | retentier | 
+| 
 
+
+| 
 
 
 
