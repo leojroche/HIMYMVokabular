@@ -102,7 +102,7 @@
 | laufen | se passer, fonctionner, courir, marcher |
 | die Wolke, ~n | le nuage | 
 | der Schalter, ~ | l'interrupteur, le guichet |
-| der Zustand | la condition, l'état | 
+| der Zustand, ~"e | la condition, l'état | 
 | das Foul, ~s | la faute | 
 | die Anreise, ~n | l'arrivée | 
 | die Pflicht, ~en | l'obligation, le devoir | 
@@ -124,6 +124,38 @@
 | vorne | à l'avant |
 | passend | approprié | 
 | jmdm. mit etw. drohen | drohen | 
+| die Feier, ~n | la fête | 
+| die Tür, ~en | la porte | 
+| der Abiturient, ~ | le bachelier | 
+| die Trockenheit, ~ | l'aridité, la sécheresse | 
+| jmdm. schaden | compromettre, mettre à mal qqchose | 
+| der Baum, ~"e | l'arbre | 
+| der Wald, ~"er | la forêt |
+| der Kuchen, ~ | le gâteau | 
+| besonders | particulièrement, spécialement | 
+| gelindgen | réussir | 
+| der Wissenschaftler, ~ | le scientifique | 
+| der Koch, ~"e | le cuisiner |
+| die Köchin, ~nen | la cuisinière |
+| ersetzen | remplacer | 
+| durch | par (préposition) | 
+| üben | faire des exercices | 
+| der Wachmann, ~"er | le gardien, le vigil |
+| die Pistole, ~n | le pistolet | 
+| die Puppe, ~n | la poupée | 
+| der Koffer, ~ | la valise | 
+| der Kaufmann, ~"er | le marchand | 
+| der Kinderwagen, ~ | la poussette, le landeau | 
+| der Schlüssel, ~ | la clef | 
+| passen | convenir, faire l'affaire | 
+| demonstrieren | manifester |
+| der Angestellte, ~n | le salarié, l'employer |
+| das Warenhaus, ~"er | le grand magasin |
+| der Kassierer, ~ | le caissier |
+| ausser | sauf |
+| die Aufstellung, ~en | l'installation, la mise en place |
+| 
+
 
 
 
@@ -222,7 +254,7 @@
 | die Leistung, ~en | la prestation | 
 | seufzen | soupirer | 
 | der Esel, ~ | l'âne | 
-| jmdn. bedrohen | intimider qqun | 
+| jmdm. bedrohen | intimider qqun | 
 | der Zugang, ~"e | le renfort | 
 | etw. zumachen | fermer qqchose | 
 | der Kripo, kein pl | la police judicière | 
@@ -237,12 +269,6 @@
 | sich etw. besorgen | se procurer qqchose | 
 | etw. ausstrecken | étendre qqchose | 
 | die Axt, ~"e | la hache | 
-| die Fotze, ~en | le con (vulgaire) | 
+| die Fotze, ~en | 
 | tuten | retentier | 
 | 
-
-
-| 
-
-
-
