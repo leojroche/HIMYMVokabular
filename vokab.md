@@ -154,7 +154,7 @@
 | der Kassierer, ~ | le caissier |
 | ausser | sauf |
 | die Aufstellung, ~en | l'installation, la mise en place |
-| 
+| etw. strecken | tendre qqchose | 
 
 
 
@@ -247,7 +247,7 @@
 | Hurensohn | fils de pute | 
 | kündigen | démissioner | 
 | etw. hinterfragen | remettre qqchose en question | 
-| verpissen | se natchaver | 
+| sich verpissen | se natchaver | 
 | verpiss dich | fuck off | 
 | der Klingelton, ~"e | la sonnerie de téléphone | 
 | der Bescheid, ~e | la décision | 
@@ -260,7 +260,6 @@
 | der Kripo, kein pl | la police judicière | 
 | ballern | tirer des coups de feu | 
 | verrotten | pourrir | 
-| der Wichser | le branleur | 
 | abhauen | mettre les voiles (slang) | 
 | einen Knall haben | être maboul (slang) | 
 | der Mord, ~e | le meurtre | 
