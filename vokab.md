@@ -160,6 +160,22 @@
 
 
 
+## Divers 3 
+| Deutsch | Français |
+| :----:  | :----:   |
+| der Einsteiger, ~ | le débutant | 
+| der Tropfer, ~n | la goutte |
+| die Bucht, ~en | la baie |
+| die Ernährung, ~en | la nutrition | 
+| etw. begrenzen | limiter, délimiter qqchose |
+| etw. umstellen | adapter qqchose | 
+| der Stein, ~ | le cailloux | 
+| etw. besitzen | posséder qqchose | 
+| insgesamt | dans l'ensemble | 
+| der Einklang, ~"e | la communion, l'unisson | 
+| etw. anbauen | cultiver qqchose | 
+| die Gesellschaft, ~en | la société |
+|
 
 
 
